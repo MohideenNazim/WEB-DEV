@@ -1,1 +1,2 @@
-# WEB-DEV
+# todo-webapp
+Workshop project for the students
